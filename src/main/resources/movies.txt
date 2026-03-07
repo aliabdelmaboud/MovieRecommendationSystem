@@ -1,4 +1,4 @@
-The dark Knight,TDK123
+The Dark Knight,TDK123
 action,thriller
 The Scary Movie,TSM456
 horror,comedy
