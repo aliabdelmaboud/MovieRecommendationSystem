@@ -1,1 +1,5 @@
-Movie Title ERROR: the Dark Knight is wrong
+For User: John Doe, 123456789
+{action}:TDK123-The Dark Knight
+{horror}:TSM456-The Scary Movie
+For User: Jane Smith, 987654321
+{thriller}:TDK123-The Dark Knight
